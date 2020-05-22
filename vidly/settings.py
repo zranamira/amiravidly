@@ -24,7 +24,7 @@ SECRET_KEY = '=3uzue%*6!3xfhfe=^6d)&62diwelmy0@m8*(v#hy)l@$edq1f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vidly.herokuapp.com']
+ALLOWED_HOSTS = ['amiravidly.herokuapp.com']
 
 # Application definition
 
