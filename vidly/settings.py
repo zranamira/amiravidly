@@ -22,9 +22,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '=3uzue%*6!3xfhfe=^6d)&62diwelmy0@m8*(v#hy)l@$edq1f'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shrouded-oasis-61124.herokuapp.com']
 
 # Application definition
 
